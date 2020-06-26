@@ -4,6 +4,12 @@ Create, edit and modify VTF files.
 
 Code heavily based on VTFLIb by Nemesis.
 
+## Crunching .vtf
+
+(converts them to DXT5 inplace)
+
+`./crunch.js myvtf`
+
 ## Usage
 
 ```js
